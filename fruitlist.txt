@@ -6,18 +6,15 @@ pear
 marion berry
 cantaloupe
 rambutan
-strawberry
 cucumber
 apple
 damson
 gooseberry
-nectarine
 lime
 passionfruit
 kiwi fruit
 dragonfruit
 plum/prune
-cloudberry
 goji berry
 western raspberry
 grapefruit
